@@ -1,0 +1,13 @@
+{
+  "name": "zenn",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^6"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.4.8"
+  }
+}
